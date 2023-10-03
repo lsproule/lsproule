@@ -1,4 +1,4 @@
-### Hi there I am Lucas Sprouole 👋
+### Hi there I am Lucas Sproule 👋
 
 
 - 🔭 I’m currently working on Neovim lsp
